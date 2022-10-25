@@ -21,7 +21,7 @@ public class John {
 		@Override
 		@OnlyIn(Dist.CLIENT)
 		public ItemStack makeIcon() {
-			
+			//Test
 			return new ItemStack(ItemInitAidyn.EXAMPLE_ITEM.get());
 		}
 	};
