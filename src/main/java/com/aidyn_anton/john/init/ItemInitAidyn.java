@@ -1,4 +1,10 @@
 package com.aidyn_anton.john.init;
+/*
+ * Aidyn Reis, Anton Snizhko
+ * Advanced Technologies Project 3
+ * 10/25/22
+ * 
+ */
 
 import com.aidyn_anton.john.John;
 import com.google.common.base.Supplier;

@@ -1,5 +1,12 @@
 package com.aidyn_anton.john;
 
+
+/*
+ * Aidyn Reis, Anton Snizhko
+ * Advanced Technologies Project 3
+ * 10/25/22
+ * 
+ */
 import com.aidyn_anton.john.init.ItemInitAidyn;
 
 import net.minecraft.world.item.CreativeModeTab;
